@@ -2,9 +2,10 @@
 
 Let's have some fun creating a blog!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Kittens
+- Kittens are cute.
+- Kittens are soft.
+- Kittens are cuddly.
 
 ```Woo```
 
@@ -24,14 +25,13 @@ Who like Puppies!
 Who loves Life!
 
 
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll Theme
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/750011150jb/Blog-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[https://750011150jb.github.io/Blog-/]
