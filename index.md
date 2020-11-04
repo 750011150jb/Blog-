@@ -16,9 +16,6 @@ Let's have some fun creating a blog!
 - Puppies deserve so much love.
 
 
-- Bulleted
-- List
-
 1. Numbered
 2. List
 
