@@ -3,7 +3,7 @@
 Let's have some fun creating a blog!
 
 # Kittens
-
+<img src="https://icatcare.org/app/uploads/2018/07/Helping-your-new-cat-or-kitten-settle-in-1.png">
 - Kittens are cute.
 - Kittens are soft.
 - Kittens are cuddly.
