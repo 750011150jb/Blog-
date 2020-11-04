@@ -6,12 +6,12 @@ Let's have some fun creating a blog!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```Woo```
 
-# Header 1
-## Header 2
-### Header 3
+
+# Kittens
+## Puppies
+### Life
 
 - Bulleted
 - List
