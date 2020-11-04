@@ -3,7 +3,7 @@
 Let's have some fun creating a blog!
 
 # Kittens
-[https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTz4BKuCP1PC5ezJit7lZi7Fv4tibqI31asllXskzNL2SHA6h9x%3Ahttps%3A%2F%2Ficatcare.org%2Fapp%2Fuploads%2F2018%2F07%2FHelping-your-new-cat-or-kitten-settle-in-1.png&usqp=CAU]
+
 - Kittens are cute.
 - Kittens are soft.
 - Kittens are cuddly.
