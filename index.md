@@ -16,13 +16,12 @@ Let's have some fun creating a blog!
 - Puppies deserve so much love.
 
 
-1. Numbered
-2. List
 
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+For more details see [Kittens](https://cute.cuddly.kittens.com/soft/fuzzy).
 
 ### Jekyll Theme
 
