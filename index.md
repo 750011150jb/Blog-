@@ -21,7 +21,7 @@ Let's have some fun creating a blog!
 
 
 
-For more details see [Kittens](https://cute.cuddly.kittens.com/soft/fuzzy).
+For more details see [Kittens](https://en.wikipedia.org/wiki/Kitten).
 
 ### Jekyll Theme
 
